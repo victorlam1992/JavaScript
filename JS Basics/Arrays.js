@@ -46,3 +46,4 @@ var isDesigner = john.indexOf('designer') === -1 ? 'John is NOT a designer' : 'J
 console.log(isDesigner);
 
 // john.indexOf('designer') === -1 means 'designer' not exist in the array
+// So, the isDesigner variable will store 'John is NOT a designer'
